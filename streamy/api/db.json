@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Hi there!",
+      "description": "Welcome",
+      "id": 1
+    },
+    {
+      "title": "Hi there 2!",
+      "description": "Welcome more",
+      "userId": "105162075103558302319",
+      "id": 2
+    }
+  ]
+}
